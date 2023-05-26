@@ -1,0 +1,31 @@
+.dibujo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    border-radius: 100%;
+}
+#cuerpo{
+    width: 400px;
+    height: 400px;
+    background-color: yellowgreen;
+    border-radius: 100%;
+  }
+  #eye1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: black;
+    top: 100px;
+    border-radius: 100%;
+    left: 45px;
+}
+#eye2{
+    width: 100px;
+height: 100px;
+position: relative;
+background-color: black;
+top: 100px;
+border-radius: 100%;
+left: 45px;
+}
